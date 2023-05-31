@@ -1,0 +1,66 @@
+/* Reset some default styles */
+html, body, ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f2f2f2;
+  }
+  
+  header {
+    background-color: rgb(188, 179, 230);
+    
+    padding: 20px;
+    
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 65px;
+    margin-bottom: 10px;
+    text-align: center;
+    
+  }
+  
+   
+  section {
+    color: rgb(196, 83, 151);
+    padding: 40px;
+  }
+  
+  h2 {
+    color: rgb(0, 0, 0);
+    font-size: 44px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+ 
+  
+ 
+  .small-image {
+    height: 200px;
+    width: 200px;
+    
+  }
+ h4{
+    color:rgb(116, 52, 52);
+    font size :60px;
+    
+ 
+  }
+  
+  h3{
+    color:firebrick
+  }
+  p{
+    color: chartreuse;
+  }
+  .ul {
+    color: #dfbfbf;
+    font: size 44px; 
+  }
